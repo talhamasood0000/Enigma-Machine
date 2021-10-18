@@ -3,6 +3,10 @@
 </h1>
 
 <p>
-i have just tried to make a practical implementation of the 
+I have just tried to make a practical implementation of the 
 enigma machine. there are still somethings features in it.
- </p>
+</p>
+ 
+<p>
+ There are many parts remaining for this program which will be updated from time to time
+</p>
